@@ -1,0 +1,10 @@
+.venv/
+AmazingHand/.git
+__pycache__/
+log_hand_controller.txt
+*.pdb
+*.rlib
+*.dll
+target/
+bin/
+obj/

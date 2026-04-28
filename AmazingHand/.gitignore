@@ -1,0 +1,19 @@
+# --- Python ---
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# --- Rust ---
+target/
+**/*.rs.bk
+
+# --- Project Specific ---
+out/
+*.log
+*.txt
+pyvenv.cfg
+
+# --- Your specific session files ---
+*.dora-session.yaml
